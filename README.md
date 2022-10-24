@@ -9,3 +9,4 @@
 - [x] JLiverTool 新增 BV 号识别，可点击跳转
 - [ ] MC 冒险服务器的插件开发
 - [ ] Sovits Joi
+- [ ] B站视频封面预览工具
