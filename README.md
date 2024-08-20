@@ -2,7 +2,7 @@
 
 🎉以下是一些可公开的 Todo 想法💡：
 
-- [ ] JLiverTool 的 TTS 支持
+- [x] JLiverTool 的 TTS 支持
 - [ ] Bilibili 动态的 Kook bot
 - [ ] 直播弹幕流相关服务的 API 改造
 - [ ] 动森语弹幕机
